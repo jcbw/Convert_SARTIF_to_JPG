@@ -1,2 +1,2 @@
-# Convert_SARTIF_to_JPG
+# Converting TIF images to JPG
 Converts decibel images to jpg format
